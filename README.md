@@ -5,16 +5,17 @@ These codes are written by me for my paper <a href="https://yukitakahashi1.githu
 oTree and Python codes to used for an experiment on corrections and gender on the Heroku server in 2020. Participants were recruited via the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
 
 ## oTree Code
-
+WRITE ABOUT HOW TO UNZIP THE CODES AND CREDITS TO CHRISTIAN AND SIRI. GIVE REFERENCE TO THEIR GITHUB REPOSITORIES.
 
 ## Python Code
-
+UPLOAD THE PYTHON CODES FOR BFS AND PUZZLE GENERATION.
 
 ## License
 These codes are released under the [MIT license](https://github.com/yukitakahashi1/correction_codes/blob/main/LICENSE).
 
 
 ## Citing the Paper
+ALSO MENTION SIRI'S PAPER. SHOULD I MENTION IT ON AT THE BEGINNING AS WELL?
 ```
 @misc{cost_corrections,
   author =       {Yuki Takahashi},
