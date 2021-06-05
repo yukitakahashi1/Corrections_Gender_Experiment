@@ -2,7 +2,7 @@ These codes are written by me for my paper <a href="https://yukitakahashi1.githu
 
 
 # Corrections-Gender-Experiment
-oTree and Python codes to used for corrections and gender experiment on the Heroku server in 2020. Participants were recruited from the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE participants database.
+oTree and Python codes to used for an experiment on corrections and gender on the Heroku server in 2020. Participants were recruited via the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
 
 ## oTree Code
 
