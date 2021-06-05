@@ -8,7 +8,7 @@ oTree and Python codes to used for an experiment on corrections and gender on th
 WRITE ABOUT HOW TO UNZIP THE CODES AND CREDITS TO CHRISTIAN AND SIRI. GIVE REFERENCE TO THEIR GITHUB REPOSITORIES.
 
 ## Python Code
-UPLOAD THE PYTHON CODES FOR BFS AND PUZZLE GENERATION.
+UPLOAD THE PYTHON CODES FOR BFS AND PUZZLE GENERATION AND WRITE ABOUT HOW TO USE THEM.
 
 ## License
 These codes are released under the [MIT license](https://github.com/yukitakahashi1/correction_codes/blob/main/LICENSE).
