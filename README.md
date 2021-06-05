@@ -1,2 +1,4 @@
-# correction_codes
-oTree and Python codes used for an experiment on corrections and gender
+These codes are written by me for my paper <a href="https://yukitakahashi1.github.io/files/Correction.pdf" target="_blank">The Cost of Corrections in Group Work</a>.
+
+
+# oTree and Python codes for an experiment on corrections and gender
