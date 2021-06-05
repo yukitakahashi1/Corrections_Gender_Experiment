@@ -2,7 +2,7 @@ These codes are written by me for my paper <a href="https://yukitakahashi1.githu
 
 
 # Corrections-Gender-Experiment
-oTree and Python codes to used for corrections and gender experiment at The Bologna Laboratory for Experiments in Social Science (BLESS) in 2020.
+oTree and Python codes to used for corrections and gender experiment at the Bologna Laboratory for Experiments in Social Science (BLESS) in 2020.
 
 ## oTree Code
 
