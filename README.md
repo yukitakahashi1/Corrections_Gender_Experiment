@@ -1,13 +1,12 @@
 These codes are written by me for my paper <a href="https://yukitakahashi1.github.io/files/Correction.pdf" target="_blank">The Cost of Corrections in Group Work</a>.
 
-
 # Corrections-Gender-Experiment
-oTree and Python codes to used for an experiment on corrections and gender on the Heroku server in 2020. Participants were recruited via the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
+These are oTree and Python codes used for an experiment on corrections and gender on the Heroku server in 2020. Participants were recruited via the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
 
-## oTree Code
-WRITE ABOUT HOW TO UNZIP THE CODES AND CREDITS TO CHRISTIAN AND SIRI. GIVE REFERENCE TO THEIR GITHUB REPOSITORIES.
+## oTree Codes
+The oTree codes are stored in the otreezip format. To extract them, please type ```otree unzip proj20200504.otreezip``` in the directory where you downloaded the otreezip file. Please note that the puzzle part of the code is based on [Christian König gen. Kersting's code](https://github.com/chkgk/otree_slider_puzzle) and the puzzle itself was first used by [Siri Isaksson](https://github.com/siriisa/Econ-Puzzle-Experiment).
 
-## Python Code
+## Python Codes
 UPLOAD THE PYTHON CODES FOR BFS AND PUZZLE GENERATION AND WRITE ABOUT HOW TO USE THEM.
 
 ## License
