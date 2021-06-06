@@ -4,10 +4,10 @@ These codes are written by me for my paper <a href="https://yukitakahashi1.githu
 These are oTree and Python codes used for an experiment on corrections and gender on the Heroku server in 2020. Participants were recruited via the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
 
 ## oTree Codes
-The oTree codes are stored in the otreezip format. To extract them, please type ```otree unzip proj20200504.otreezip``` in the directory where you downloaded the otreezip file. Please note that the puzzle part of the code is based on [Christian König gen. Kersting's code](https://github.com/chkgk/otree_slider_puzzle) and the puzzle itself was first used by [Siri Isaksson](https://github.com/siriisa/Econ-Puzzle-Experiment).
+The oTree codes are stored in ```proj20200504.otreezip```. To extract them, please type ```otree unzip proj20200504.otreezip``` in the directory where you downloaded the otreezip file. Please note that the puzzle part of the code is based on [Christian König gen. Kersting's code](https://github.com/chkgk/otree_slider_puzzle) and the puzzle itself was first used by [Siri Isaksson](https://github.com/siriisa/Econ-Puzzle-Experiment).
 
 ## Python Codes
-UPLOAD THE PYTHON CODES FOR BFS AND PUZZLE GENERATION AND WRITE ABOUT HOW TO USE THEM.
+The Python codes are stored in ```PythonCodes.zip```. ```AnalyzeHistory.py``` extracts information from the move history recorded by oTree and ```ExpandHistory.py``` summarizes the information for the analysis. ```AnalyzeHistory.py``` requires ```bfs.py``` and ```tiles.py``` (based on [this website](http://www.openbookproject.net/py4fun/tiles/tiles.html) and they must be in the same directory. 
 
 ## License
 These codes are released under the [MIT license](https://github.com/yukitakahashi1/correction_codes/blob/main/LICENSE).
