@@ -1,4 +1,4 @@
-These codes are written by me for my paper <a href="https://yukitakahashi1.github.io/files/Correction.pdf" target="_blank">The Cost of Corrections in Group Work</a>.
+These codes are written by me for my paper <a href="https://yukitakahashi1.github.io/files/Correction.pdf" target="_blank">Corrections and Collaborations in Group Work</a>.
 
 # Corrections-Gender-Experiment
 These are oTree and Python codes used for an experiment on corrections and gender conducted in 2020. Participants were recruited from the Bologna Laboratory for Experiments in Social Science (BLESS)'s ORSEE.
