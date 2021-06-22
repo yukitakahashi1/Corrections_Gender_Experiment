@@ -13,7 +13,7 @@ The Python codes are stored in ```PythonCodes.zip```. ```AnalyzeHistory.py``` ex
 These codes are released under the [MIT license](https://github.com/yukitakahashi1/correction_codes/blob/main/LICENSE).
 
 ## Citing the Paper
-You are also suggested to cite [Siri Isaksson's paper](https://github.com/siriisa/Econ-Puzzle-Experiment) that first used the puzzle.
+If you use the puzzle,  please cite [Siri Isaksson's paper](https://github.com/siriisa/Econ-Puzzle-Experiment) which introduces this puzzle.
 ```
 @misc{cost_corrections,
   author =       {Yuki Takahashi},
