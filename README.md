@@ -17,7 +17,7 @@ If you use the puzzle,  please cite [Siri Isaksson's paper](https://github.com/s
 ```
 @misc{cost_corrections,
   author =       {Yuki Takahashi},
-  title =        {Corrections and Collaborations in Group Work.},
+  title =        {Gender Differences in the Cost of Corrections in Group Work.},
   howpublished = {\url{https://yukitakahashi1.github.io/files/Correction.pdf}},
   year =         {2021}
 }
